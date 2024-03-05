@@ -1,6 +1,6 @@
 these instruction can be used against CentOS/RedHat/Fedora Systems. 
 
-Note - Go to https://www.jenkins.io/doc/book/installing/linux/#prerequisites 
+Note - Go to https://www.jenkins.io/download/ 
 to understand the requirement of Jenkins software & get new jenkins version as per the requriements
 
 Install JAVA
